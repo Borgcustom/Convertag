@@ -1,0 +1,14 @@
+;FFMETADATA1
+show=WWE Ride Along
+media_type=10
+title=Magical Miztery Tour
+episode+sort=3
+season_number=3
+disc=3
+track=3
+description=On the eve of the Royal Rumble, The Miz and his Miztourage bring the Magical Miztery Tour on the road, while The Revival travels old school.
+synopsis=On the eve of the Royal Rumble, The Miz and his Miztourage bring the Magical Miztery Tour on the road, while The Revival travels old school.
+date=2018-03-05
+genre=Reality
+network=WWE Network
+\
